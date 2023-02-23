@@ -1,0 +1,18 @@
+body {
+    background-color: hsl(221, 100%, 96%);
+}
+
+.container-1 {
+    text-align: center;
+    background-color: hsl(252, 100%, 67%);
+    height: 300px;
+    width: 200px;
+    border-radius: 6%;
+}
+
+.circle {
+    background-color: aqua;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
